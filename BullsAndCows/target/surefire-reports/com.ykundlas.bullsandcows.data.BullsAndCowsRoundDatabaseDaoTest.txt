@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ykundlas.bullsandcows.data.BullsAndCowsRoundDatabaseDaoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.749 sec - in com.ykundlas.bullsandcows.data.BullsAndCowsRoundDatabaseDaoTest
